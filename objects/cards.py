@@ -1,5 +1,6 @@
 # A module to define a game card and all of its subtypes
 
+
 class Card:
     """A generic card used in gameplay"""
 
