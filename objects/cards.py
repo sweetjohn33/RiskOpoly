@@ -2,7 +2,8 @@
 
 
 class Card:
-    """A generic card used in gameplay"""
+    """A generic card used in gameplay
+    """
 
     def __init__(self, deck):
         self.add_to_deck(deck)
