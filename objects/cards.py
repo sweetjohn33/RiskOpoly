@@ -3,7 +3,6 @@
 
 class Card:
     """A generic card used in gameplay
-    HEHE NO ONE WILL SEE MY COMMIT
     """
 
     def __init__(self, deck):
